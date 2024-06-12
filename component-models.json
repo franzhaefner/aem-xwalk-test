@@ -145,6 +145,13 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "dynamic-select",
+        "name": "dynamicSelect",
+        "value": "",
+        "label": "Dynamic Select",
+        "valueType": "string"
       }
     ]
   },
